@@ -2,10 +2,10 @@
 
 [![Website](https://img.shields.io/badge/sain__mohd-mohamedsaneen.com-brightgreen)](https://sanin-mohd.github.io/my-portfolio/)
 
-
+(https://img.shields.io/badge/shazam-https%3A%2F%2Fshazam.mohamedsaneen.com%2F-brightgreen)
 ## I'm a Software Engineer, Startup Enthusiast, Investor, and Traveller !!
 
-- ⚓ I just launched my first Django web application to book brand new EV: [https://shazam.mohamedsaneen.com/]
+- ⚓ I just launched my first Django web application to book brand new EV:[![shazam](https://img.shields.io/badge/sain__mohd-mohamedsaneen.com-brightgreen)](https://shazam.mohamedsaneen.com/)
 - ⚓ I’m currently working in React, Django RESTful API and Posgresql
 - ⚓ I’m looking for startups that helps me in career growth as well as financial growth 
 
@@ -59,4 +59,5 @@
 [website]: https://sanin-mohd.github.io/my-portfolio/
 [instagram]: https://www.instagram.com/sanin__mohd/
 [linkedin]: https://www.linkedin.com/in/mohamed-saneen-k/
+[shazam]: https://shazam.mohamedsaneen.com/
 
