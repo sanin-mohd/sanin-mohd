@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/sain__mohd-mohamedsaneen.com-brightgreen)](https://sanin-mohd.github.io/my-portfolio/)
 
-## I'm a Software Engineer, Startup Enthusiast, Investor, and Traveller !!
+## I'm a Software Engineer, Startup Enthusiast and Investor!!
 
 - ⚓ I just launched my first Django web application to book brand new EV[![shazam](https://img.shields.io/badge/shazam-https%3A%2F%2Fshazam.mohamedsaneen.com%2F-brightgreen)](https://shazam.mohamedsaneen.com/)
 - ⚓ I’m currently working in React, Django RESTful API and Posgresql
