@@ -1,5 +1,6 @@
 ### Hi there, I'm Sanin_mohd - [][website] 👋 
 
+
 [![Website](https://img.shields.io/badge/sain__mohd-mohamedsaneen.com-brightgreen)](https://sanin-mohd.github.io/my-portfolio/)
 
 ## I'm a Full Stack Developer, Startup Enthusiast and Investor!!
@@ -17,7 +18,32 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[![Visits Badge](https://badges.pufler.dev/visits/sanin-mohd/sanin-mohd)](https://github.com/sanin-mohd)
 <br />
+
+
+## 📌 Pinned Repositories
+
+<a href="[https://github.com/sanin-mohd/shazam.git]">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sanin-mohd&repo=shazam&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+
+## &#x1f4c8; GitHub Stats
+
+
+
+<a href="https://github.com/sanin-mohd">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanin-mohd&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/sanin-mohd">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sanin-mohd&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="sanin-mohd GitHub Stats" />
+</a>
+<br>
+<br>
 
 ### Languages and Tools:
 
