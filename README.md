@@ -1,15 +1,11 @@
 ### Hi there, I'm Sanin_mohd - [][website] 👋 
-
+<a href="https://app.daily.dev/sanin"><img align="right" src="https://github.com/sanin-mohd/sanin-mohd/blob/master/devcard.svg" width="300" alt="sanin_mohd's Dev Card"/></a>
 
 [![Website](https://img.shields.io/badge/sain__mohd-mohamedsaneen.com-brightgreen)](https://sanin-mohd.github.io/my-portfolio/)
 
-## I'm a Full Stack Developer, Startup Enthusiast and Investor!!
-
-- ⚓ I just launched my first Django web application to book brand new EV[![shazam](https://img.shields.io/badge/shazam-https%3A%2F%2Fshazam.mohamedsaneen.com%2F-brightgreen)](https://shazam.mohamedsaneen.com/)
-- ⚓ I’m currently working in React, Django RESTful API and Posgresql
-- ⚓ I’m looking for startups that helps me in career growth as well as financial growth 
-
-- ⚓ 2022 Goal: To be a part of big billion startup
+## I'm a Software Engineer, Startup Enthusiast and Investor!!
+- ⚓ I’m currently working in Python Django Backend @ YouGotAGift.com LTD
+- ⚓ Crypto option seller and stock part-time trader
 - ⚓ Fun fact: I love to travel
 
 ### Connect with me:
@@ -19,9 +15,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [![Visits Badge](https://badges.pufler.dev/visits/sanin-mohd/sanin-mohd)](https://github.com/sanin-mohd)
-<br />
 
-<a href="https://app.daily.dev/sanin"><img src="https://api.daily.dev/devcards/9c3a174e8e824b41b101a53e4b730436.png?r=hab" width="200" alt="sanin_mohd's Dev Card"/></a>
 ## 📌 Pinned Repositories
 
 <a href="[https://github.com/sanin-mohd/shazam.git]">
