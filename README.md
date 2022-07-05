@@ -21,7 +21,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/sanin-mohd/sanin-mohd)](https://github.com/sanin-mohd)
 <br />
 
-
+<a href="https://app.daily.dev/sanin"><img src="https://api.daily.dev/devcards/9c3a174e8e824b41b101a53e4b730436.png?r=hab" width="400" alt="sanin_mohd's Dev Card"/></a>
 ## 📌 Pinned Repositories
 
 <a href="[https://github.com/sanin-mohd/shazam.git]">
