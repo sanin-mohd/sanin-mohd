@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/badge/sain__mohd-mohamedsaneen.com-brightgreen)](https://sanin-mohd.github.io/my-portfolio/)
 
-## I'm a Software Engineer, Startup Enthusiast and Investor!!
+## A Software Engineer, Startup Enthusiast and Investor!!
 - ⚓ I’m currently working in Python Django Backend @ YouGotAGift.com LTD
 - ⚓ Crypto option seller and stock part-time trader
 - ⚓ Fun fact: I love to travel
