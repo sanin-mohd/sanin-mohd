@@ -1,5 +1,7 @@
 ### Hi there, I'm Sanin_mohd - [][website] 👋 
-<a href="https://app.daily.dev/sanin"><img align="right" src="https://github.com/sanin-mohd/sanin-mohd/blob/master/devcard.svg" width="300" alt="sanin_mohd's Dev Card"/></a>
+<h6 align="right">Profile Views</h6>
+<img align="right" src="https://profile-counter.glitch.me/sanin-mohd/count.svg"/>
+
 
 [![Website](https://img.shields.io/badge/sain__mohd-mohamedsaneen.com-brightgreen)](https://sanin-mohd.github.io/my-portfolio/)
 
@@ -7,15 +9,13 @@
 - ⚓ I’m currently working in Python Django Backend @ YouGotAGift.com LTD
 - ⚓ Crypto option seller and stock part-time trader
 - ⚓ Fun fact: I love to travel
-
+<a align="right" href="https://app.daily.dev/sanin"><img align="right" src="https://github.com/sanin-mohd/sanin-mohd/blob/master/devcard.svg" width="300" alt="sanin_mohd's Dev Card"/></a>
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[![Visits Badge](https://badges.pufler.dev/visits/sanin-mohd/sanin-mohd)](https://github.com/sanin-mohd)
-
+<br>
 ## 📌 Pinned Repositories
 
 <a href="[https://github.com/sanin-mohd/shazam.git]">
