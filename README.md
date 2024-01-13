@@ -8,7 +8,7 @@
 ## A Software Engineer, Startup Enthusiast and Investor!!
 - ⚓ I’m currently working in Python Django Backend @ YouGotAGift.com LTD
 - ⚓ Investor
-- ⚓ Fun fact: I love to travel
+- ⚓ Hobby: Travel
 <a align="right" href="https://app.daily.dev/sanin"><img align="right" src="https://github.com/sanin-mohd/sanin-mohd/blob/master/devcard.svg" width="300" alt="sanin_mohd's Dev Card"/></a>
 ### Connect with me:
 
